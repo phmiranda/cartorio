@@ -1,0 +1,23 @@
+# comentários
+.idea/
+nbproject/
+.vscode/
+
+# comentários
+composer.lock
+package-lock.json
+public/default.php
+
+# comentários
+node_modules/
+vendor/
+
+# comentários
+._*
+.vagrant
+.~lock.*
+.buildpath
+.DS_Store
+.project
+.settings
+composer.phar
