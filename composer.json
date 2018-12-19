@@ -9,6 +9,9 @@
     "homepage": "http://framework.zend.com/",
     "require": {
         "php": ">=5.5",
-        "zendframework/zendframework": "~2.5"
+        "zendframework/zendframework": "~2.5",
+        "twbs/bootstrap": "3.3.7",
+        "components/jquery": "^3.3",
+        "almasaeed2010/adminlte": "~2.4"
     }
 }
